@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "さよなら大好きな人",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-12T16:03:22.267279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよなら大好きな人 - 2020 Remaster",
+      "artist": "hana*hana",
+      "has_synced": false,
+      "path": "select/01_さよなら大好きな人_-_2020_Remaster_hana_hana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら大好きな人",
+      "artist": "Ai Kawashima",
+      "has_synced": true,
+      "path": "select/02_さよなら大好きな人_Ai_Kawashima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよなら大好きな人 - Sayonara Daisukinahito",
+      "artist": "Chris Hart",
+      "has_synced": true,
+      "path": "select/03_さよなら大好きな人_-_Sayonara_Daisukinahito_Chris_Hart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよなら大好きな人",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/04_さよなら大好きな人_川嶋あい.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよなら大好きな人",
+      "artist": "花*花",
+      "has_synced": true,
+      "path": "select/05_さよなら大好きな人_花_花.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さよなら大好きな人",
+      "artist": "Chris Hart",
+      "has_synced": false,
+      "path": "select/06_さよなら大好きな人_Chris_Hart.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよなら大好きな人",
+      "artist": "花 花",
+      "has_synced": true,
+      "path": "select/07_さよなら大好きな人_花_花.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら 大好きな人",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら_大好きな人_スピッツ.txt"
+    }
+  ]
+}
